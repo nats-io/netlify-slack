@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/"
+  to = "https://join.slack.com/t/natsio/shared_invite/zt-41e6tnmb-qCt63606MKR1YxIHZf4ICA"
+  status = 302
+  force = true
